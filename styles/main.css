@@ -1,5 +1,170 @@
 @import "./normalize/normalize.css";
 @import "./fontawesome/css/all.css";
+.item:nth-child(1) {
+  background-color: #e95e0f;
+  height: 19vh;
+  background-color: #fab700;
+}
+
+.item:nth-child(2) {
+  background-color: #e95e0f;
+  height: 17vh;
+}
+
+.item:nth-child(3) {
+  background-color: #e95e0f;
+  height: 9vh;
+  background-color: #fab700;
+}
+
+.item:nth-child(4) {
+  background-color: #e95e0f;
+  height: 22vh;
+}
+
+.item:nth-child(5) {
+  background-color: #e95e0f;
+  height: 24vh;
+  background-color: #fab700;
+}
+
+.item:nth-child(6) {
+  background-color: #e95e0f;
+  height: 16vh;
+}
+
+.item:nth-child(7) {
+  background-color: #e95e0f;
+  height: 9vh;
+  background-color: #fab700;
+}
+
+.item:nth-child(8) {
+  background-color: #e95e0f;
+  height: 14vh;
+}
+
+.item:nth-child(9) {
+  background-color: #e95e0f;
+  height: 18vh;
+  background-color: #fab700;
+}
+
+.item:nth-child(10) {
+  background-color: #e95e0f;
+  height: 6vh;
+}
+
+.item:nth-child(11) {
+  background-color: #e95e0f;
+  height: 20vh;
+  background-color: #fab700;
+}
+
+.item:nth-child(12) {
+  background-color: #e95e0f;
+  height: 7vh;
+}
+
+.item:nth-child(13) {
+  background-color: #e95e0f;
+  height: 16vh;
+  background-color: #fab700;
+}
+
+.item:nth-child(14) {
+  background-color: #e95e0f;
+  height: 6vh;
+}
+
+.item:nth-child(15) {
+  background-color: #e95e0f;
+  height: 24vh;
+  background-color: #fab700;
+}
+
+.item:nth-child(16) {
+  background-color: #e95e0f;
+  height: 11vh;
+}
+
+.item:nth-child(17) {
+  background-color: #e95e0f;
+  height: 17vh;
+  background-color: #fab700;
+}
+
+.item:nth-child(18) {
+  background-color: #e95e0f;
+  height: 12vh;
+}
+
+.item:nth-child(19) {
+  background-color: #e95e0f;
+  height: 14vh;
+  background-color: #fab700;
+}
+
+.item:nth-child(20) {
+  background-color: #e95e0f;
+  height: 11vh;
+}
+
+.item:nth-child(21) {
+  background-color: #e95e0f;
+  height: 10vh;
+  background-color: #fab700;
+}
+
+.item:nth-child(22) {
+  background-color: #e95e0f;
+  height: 15vh;
+}
+
+.item:nth-child(23) {
+  background-color: #e95e0f;
+  height: 18vh;
+  background-color: #fab700;
+}
+
+.item:nth-child(24) {
+  background-color: #e95e0f;
+  height: 18vh;
+}
+
+.item:nth-child(25) {
+  background-color: #e95e0f;
+  height: 7vh;
+  background-color: #fab700;
+}
+
+.item:nth-child(26) {
+  background-color: #e95e0f;
+  height: 22vh;
+}
+
+.item:nth-child(27) {
+  background-color: #e95e0f;
+  height: 20vh;
+  background-color: #fab700;
+}
+
+.item:nth-child(28) {
+  background-color: #e95e0f;
+  height: 20vh;
+}
+
+.item:nth-child(29) {
+  background-color: #e95e0f;
+  height: 7vh;
+  background-color: #fab700;
+}
+
+.item:nth-child(30) {
+  background-color: #e95e0f;
+  height: 21vh;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -21,14 +186,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  border: 1px solid red;
 }
 
 .item {
   width: 0.2rem;
   height: 10rem;
   border-radius: 10px;
-  border: 1px solid red;
 }
 
 /*# sourceMappingURL=main.css.map */
