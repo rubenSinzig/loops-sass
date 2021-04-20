@@ -8,20 +8,20 @@
 
 #### Navigation
 
-- [About Project](#about)
+- About Project
   - _Description_
   - _Developed With_
-- [Contact](#contact)
+- Contact
   - _Mail_
   - _GitHub_
   - _LinkedIn_
-- [Used Tools](#tools)
+- Used Tools
 
 ---
 
 [![Screenshot from Project](/img/project-screenshot.gif)](https://rubensinzig.github.io/loops-sass/)
 
-### About Project {#about}
+### About Project
 
 Small App using loops, animations, variables and mixins in sass / scss.
 
@@ -38,7 +38,7 @@ Small App using loops, animations, variables and mixins in sass / scss.
 
 ---
 
-### Contact {#contact}
+### Contact
 
 Mail: <ruben.sinzig@posteo.de>
 GitHub: [rubenSinzig](https://github.com/rubenSinzig)
@@ -46,7 +46,7 @@ LinkedIn: [Ruben Sinzig](#)
 
 ---
 
-### Used Tools {#tools}
+### Used Tools
 
 - [Font Awesome](https://fontawesome.com/)
 - [Canva](https://www.canva.com/)
