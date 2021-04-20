@@ -6,5 +6,6 @@
     @if (($i % 2) != 0) {
       @include background-color(load-yellow);
     }
+    @include move-animation(random(5) + 1 + s);
   }
 }

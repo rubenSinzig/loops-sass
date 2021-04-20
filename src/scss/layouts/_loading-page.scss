@@ -8,6 +8,7 @@ body {
   width: 40%;
   height: 40%;
   @include center;
+  @include rotate-animation;
 }
 .item {
   @include size-item;
