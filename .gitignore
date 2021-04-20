@@ -1,0 +1,8 @@
+# npm server
+node_modules
+
+# client version
+dist
+
+# css styles
+src/styles
