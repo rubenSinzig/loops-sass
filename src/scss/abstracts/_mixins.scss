@@ -6,3 +6,15 @@
     @error "#{$color} is not defined, use .src/abstracts/_variables.scss -> #{loading-colors}";
   }
 }
+
+// center content
+@mixin size-item {
+  width: 0.2rem;
+  height: 10rem;
+  border-radius: 10px;
+}
+@mixin center {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}

@@ -1,3 +1,16 @@
 body {
+  width: 100vw;
+  height: 100vh;
   @include background-color(load-bg);
+  @include center;
+}
+.items-container {
+  width: 40%;
+  height: 40%;
+  @include center;
+  border: 1px solid red;
+}
+.item {
+  @include size-item;
+  border: 1px solid red;
 }
