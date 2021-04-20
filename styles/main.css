@@ -2,169 +2,341 @@
 @import "./fontawesome/css/all.css";
 .item:nth-child(1) {
   background-color: #e95e0f;
-  height: 19vh;
+  height: 7vh;
   background-color: #fab700;
+  animation-name: move;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(2) {
   background-color: #e95e0f;
-  height: 17vh;
+  height: 9vh;
+  animation-name: move;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(3) {
   background-color: #e95e0f;
-  height: 9vh;
+  height: 25vh;
   background-color: #fab700;
+  animation-name: move;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(4) {
   background-color: #e95e0f;
-  height: 22vh;
+  height: 21vh;
+  animation-name: move;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(5) {
   background-color: #e95e0f;
-  height: 24vh;
+  height: 19vh;
   background-color: #fab700;
+  animation-name: move;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(6) {
   background-color: #e95e0f;
-  height: 16vh;
+  height: 25vh;
+  animation-name: move;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(7) {
   background-color: #e95e0f;
-  height: 9vh;
+  height: 18vh;
   background-color: #fab700;
+  animation-name: move;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(8) {
   background-color: #e95e0f;
-  height: 14vh;
+  height: 20vh;
+  animation-name: move;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(9) {
   background-color: #e95e0f;
-  height: 18vh;
+  height: 17vh;
   background-color: #fab700;
+  animation-name: move;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(10) {
   background-color: #e95e0f;
-  height: 6vh;
+  height: 8vh;
+  animation-name: move;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(11) {
   background-color: #e95e0f;
-  height: 20vh;
+  height: 22vh;
   background-color: #fab700;
+  animation-name: move;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(12) {
   background-color: #e95e0f;
-  height: 7vh;
+  height: 16vh;
+  animation-name: move;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(13) {
   background-color: #e95e0f;
-  height: 16vh;
+  height: 13vh;
   background-color: #fab700;
+  animation-name: move;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(14) {
   background-color: #e95e0f;
-  height: 6vh;
+  height: 18vh;
+  animation-name: move;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(15) {
   background-color: #e95e0f;
-  height: 24vh;
+  height: 19vh;
   background-color: #fab700;
+  animation-name: move;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(16) {
   background-color: #e95e0f;
-  height: 11vh;
+  height: 24vh;
+  animation-name: move;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(17) {
   background-color: #e95e0f;
-  height: 17vh;
+  height: 10vh;
   background-color: #fab700;
+  animation-name: move;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(18) {
   background-color: #e95e0f;
-  height: 12vh;
+  height: 18vh;
+  animation-name: move;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(19) {
   background-color: #e95e0f;
-  height: 14vh;
+  height: 11vh;
   background-color: #fab700;
+  animation-name: move;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(20) {
   background-color: #e95e0f;
-  height: 11vh;
+  height: 19vh;
+  animation-name: move;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(21) {
   background-color: #e95e0f;
-  height: 10vh;
+  height: 17vh;
   background-color: #fab700;
+  animation-name: move;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(22) {
   background-color: #e95e0f;
-  height: 15vh;
+  height: 14vh;
+  animation-name: move;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(23) {
   background-color: #e95e0f;
-  height: 18vh;
+  height: 20vh;
   background-color: #fab700;
+  animation-name: move;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(24) {
   background-color: #e95e0f;
-  height: 18vh;
+  height: 7vh;
+  animation-name: move;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(25) {
   background-color: #e95e0f;
-  height: 7vh;
+  height: 9vh;
   background-color: #fab700;
+  animation-name: move;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(26) {
   background-color: #e95e0f;
   height: 22vh;
+  animation-name: move;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(27) {
   background-color: #e95e0f;
-  height: 20vh;
+  height: 19vh;
   background-color: #fab700;
+  animation-name: move;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(28) {
   background-color: #e95e0f;
-  height: 20vh;
+  height: 8vh;
+  animation-name: move;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(29) {
   background-color: #e95e0f;
-  height: 7vh;
+  height: 14vh;
   background-color: #fab700;
+  animation-name: move;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
 .item:nth-child(30) {
   background-color: #e95e0f;
-  height: 21vh;
+  height: 24vh;
+  animation-name: move;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
 }
 
+@keyframes move {
+  0% {
+    transform: scaleY(1);
+  }
+  100% {
+    transform: scaleY(2);
+  }
+}
+@keyframes rotate {
+  25% {
+    transform: rotate(90deg);
+  }
+  50% {
+    transform: rotate(180deg);
+  }
+  75% {
+    transform: rotate(270deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
 * {
   box-sizing: border-box;
   margin: 0;
@@ -174,7 +346,7 @@
 body {
   width: 100vw;
   height: 100vh;
-  background-color: #0b003d;
+  background-color: #08002e;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
@@ -186,6 +358,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
+  animation-name: rotate;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
 }
 
 .item {
