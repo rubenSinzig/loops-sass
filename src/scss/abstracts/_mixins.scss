@@ -1,0 +1,8 @@
+// colors loading-page
+@mixin background-color($color) {
+  @if map-has-key($loading-colors, $color) {
+    background-color: map-get($loading-colors, $color);
+  } @else {
+    @error "#{$color} is not defined, use .src/abstracts/_variables.scss -> #{loading-colors}";
+  }
+}
