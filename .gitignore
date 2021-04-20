@@ -1,8 +1,8 @@
-# npm server
-node_modules
-
-# client version
-dist
-
-# css styles
-src/styles
+# Generate output
+dist/
+# Generate styles
+src/styles/
+# Dependency dir
+node_modules/
+# VS code config
+.vscode/ 
