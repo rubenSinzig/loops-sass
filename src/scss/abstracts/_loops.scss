@@ -1,0 +1,10 @@
+// @for loop to randomize value for each div item
+@for $i from 1 through $items-count {
+  .item:nth-child(#{$i}) {
+    @include background-color(load-orange);
+    height: random(20) + 5 + vh;
+    @if (($i % 2) != 0) {
+      @include background-color(load-yellow);
+    }
+  }
+}

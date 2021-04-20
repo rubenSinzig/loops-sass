@@ -8,9 +8,7 @@ body {
   width: 40%;
   height: 40%;
   @include center;
-  border: 1px solid red;
 }
 .item {
   @include size-item;
-  border: 1px solid red;
 }
